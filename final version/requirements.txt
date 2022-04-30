@@ -1,0 +1,6 @@
+matplotlib==3.4.2
+numpy==1.20.3
+pandas==1.2.4
+pyspark==3.1.2
+tensorflow==2.8.0
+keras==2.8.0
